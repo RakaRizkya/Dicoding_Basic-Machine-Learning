@@ -1,5 +1,5 @@
 # Dicoding - Machine Learning Basic
-An online course by [Dicoding Indonesia](https://www.dicoding.com). This course was fasilitated by [IDCamp Indosat Ooredoo 2020](https://idcamp.indosatooredoo.com)
+An online course by [Dicoding Indonesia](https://www.dicoding.com). This course was facilitated by [IDCamp Indosat Ooredoo 2020](https://idcamp.indosatooredoo.com)
 
 Some of the lesson within this course were :
 1. Data Preprocessing with Pandas
